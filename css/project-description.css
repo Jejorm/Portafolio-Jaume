@@ -1,0 +1,35 @@
+.project-description {
+	padding: 40px 0;
+}
+.project-description p {
+	text-align: center;
+}
+
+.project-description p:first-of-type {
+	font: var(--projectDesc);
+}
+
+.project-description p:last-of-type {
+	font: var(--projectDesc);
+	font-weight: bold;
+	margin: 24px 0;
+}
+
+.project-description-arrow img {
+	width: 80px;
+	height: 80px;
+	display: block;
+	margin: auto;
+}
+
+@media screen and (min-width: 768px) {
+	.project-description {
+		padding: 150px 100px;
+	}	
+}
+
+@media screen and (min-width: 1024px) {
+	.project-description {
+		padding: 200px 230px;
+	}	
+}
