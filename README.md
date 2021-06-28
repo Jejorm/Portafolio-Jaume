@@ -13,3 +13,6 @@ Proyecto completo del Taller Portafolio Jaume de https://leonidasesteban.com/pro
 ## Autor
 
 **Jeremy Orellana | *@jejorm***
+
+> Puedes encontrar más proyectos en
+> leonidasesteban.com
